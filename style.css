@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    margin: 30% 0px 0px 0px;
+    padding: 0px;
+}
+h2{
+    font-size: 40px;
+    margin: 30% 0px 0px 0px;
+    padding: 0px 0px 3% 0px; 
+}
+p{
+    color: dimgray; 
+}
+
+.biography p{
+    padding-bottom: 4%;
+}
+.pink-highlight{
+    color: hotpink;
+    padding: 0%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 9%;
+    padding-left: 1%;
+}
+
+.half-width img{
+    margin-top: 10%;
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 400px;
+    padding-bottom: 600px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, hotpink, pink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.my-latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+}
+.my-latest-work h2{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.work-images{
+    margin: 5% 0% 5% 5%;
+}
+.my-latest-work img{
+    width: 28%;
+    height: 100%;
+    padding: 1% 0% 0% 1%;
+    box-shadow: 10px 10px 20px;
+    margin-right: 4%;
+}
+
+.footer{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding: 10%;
+
+}
+
+.footer h2,h3,h4,h5{
+    text-align: center;
+}
+
+.footer h3,h4{
+    font-size: 20px;
+    margin: 0; 
+    padding: 0;
+}
+
+.footer h4{
+    color: dimgray;
+}
+.footer h3{
+    padding-top: 4%;
+}
+.footer h5{
+    text-size-adjust: 30px;
+}
+.footer .box{
+    margin-top: 60px;
+    height: 100px; 
+    width: 70%;
+    background-image: linear-gradient(45deg, hotpink, pink);
+    border-radius: 10px; 
+    margin-left: 15%;
+    margin-right: 25%;
+}
+.footer .box p{
+    margin-top: 20px;
+    padding-bottom: 0px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}   
+#p2{
+    padding-top: 0%;
+    font-size: 30px;
+    font-weight: 700; 
+}
+
+.last-end{
+    padding-top: 10%;
+    text-align: center;
+}
